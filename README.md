@@ -13,6 +13,9 @@ https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua
 If you are a Mac user, download from here: https://luabinaries.sourceforge.net/download.html
 
 Add a folder called 'Lua' into Program Files and then put all of the executables and folders inside the zip folder to the new folder (Lua-Program Files).
+
 Add the location to path and open terminal to where you have saved my project.
 
 `$ lua main.lua`
+
+This will open my project in your terminal and its ready to run.
