@@ -4,8 +4,11 @@ A text adventure game in Lua called NoSight.
 This is my first project in Lua.
 Just for timepass.
 
-Download Lua's executables from here: `https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win64_bin.zip/download (Windows)
-                                      https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux319_64_bin.tar.gz/download (Linux)`
+Download Lua's executables from here: 
+
+https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Win64_bin.zip/download (Windows)
+
+https://sourceforge.net/projects/luabinaries/files/5.3.6/Tools%20Executables/lua-5.3.6_Linux319_64_bin.tar.gz/download (Linux)
                                       
 If you are a Mac user, download from here: https://luabinaries.sourceforge.net/download.html
 
